@@ -7,6 +7,9 @@ I’m an aspiring **AI/ML Engineer** focused on building practical intelligent s
 I enjoy turning ideas into working applications — from ML prediction systems and GIS-based intelligence platforms to AI-powered web and mobile applications.
 
 ---
+my portfolio
+
+https://kailash-pachipala-portfolio.vercel.app/
 
 ## 🧠 About Me
 
