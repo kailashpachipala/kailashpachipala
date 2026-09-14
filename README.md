@@ -17,7 +17,7 @@ https://kailash-pachipala-portfolio.vercel.app/
 * 🧠 Exploring **LLMs, AI applications and intelligent automation**
 * ☁️ Learning and building with **Cloud Computing & Cloud Architecture**
 * 📊 Interested in **Data Analytics, Predictive Modeling & ML Engineering**
-* 🗺️ Exploring **GIS, geospatial intelligence and location-based systems**
+
 * 💻 Building projects with **Python, SQL, Streamlit, FastAPI, Flutter & Firebase**
 * 🚀 Interested in building practical AI products rather than only experimenting with models
 * 📚 Continuously improving my skills through projects, experimentation and hands-on learning
