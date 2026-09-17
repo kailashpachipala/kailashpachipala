@@ -47,7 +47,6 @@ Real-world Applications
 * 🔹 Explainable AI
 * 🔹 Cloud architecture
 * 🔹 Local LLM experimentation
-* 🔹 GIS & geospatial intelligence
 * 🔹 MLOps and production-oriented AI workflows
 
 ---
